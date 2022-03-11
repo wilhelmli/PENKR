@@ -4050,7 +4050,7 @@ a {
   color: #353535;
 }
 .cid-sZGy4OgYsL .mbr-section-title {
-  color: #e43f3f;
+  color: #8c44d9;
 }
 .cid-sZshT5JU8w {
   padding-top: 5rem;
@@ -4090,26 +4090,6 @@ a {
 .cid-sZshT5JU8w .mbr-section-title {
   text-align: center;
   color: #e43f3f;
-}
-.cid-sZGwUZDS0e {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sZGwUZDS0e .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sZGwUZDS0e .row {
-  flex-direction: row-reverse;
-}
-.cid-sZGwUZDS0e img {
-  width: 100%;
-}
-.cid-sZGwUZDS0e .mbr-description {
-  color: #353535;
-  text-align: center;
 }
 .cid-sWW38CwQKh {
   z-index: 1000;
@@ -4756,6 +4736,43 @@ a {
 }
 .cid-sZswM7QgAu .card-title {
   color: #000000;
+}
+.cid-sZK1LO8s6t {
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+  background-color: #000000;
+}
+.cid-sZK1LO8s6t .card-wrapper {
+  padding-right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-sZK1LO8s6t .card {
+    margin-bottom: 2rem!important;
+  }
+  .cid-sZK1LO8s6t .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sZK1LO8s6t .link-wrap {
+    align-items: center;
+  }
+}
+.cid-sZK1LO8s6t .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sZK1LO8s6t .mbr-text {
+  color: #e43f3f;
+}
+.cid-sZK1LO8s6t .card-title,
+.cid-sZK1LO8s6t .card-box {
+  color: #e43f3f;
+}
+.cid-sZK1LO8s6t .mbr-text,
+.cid-sZK1LO8s6t .link-wrap,
+.cid-sZK1LO8s6t .mbr-section-btn {
+  color: #353535;
 }
 .cid-sZsCHDaXHL {
   padding-top: 6rem;
@@ -5405,8 +5422,11 @@ a {
 }
 .cid-sZGe1aJ6GB {
   padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+  padding-bottom: 0rem;
+  background-color: #8c44d9;
+}
+.cid-sZGe1aJ6GB .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-sZGe1aJ6GB .image-wrapper {
@@ -5426,7 +5446,61 @@ a {
   color: #bbbbbb;
 }
 .cid-sZGe1aJ6GB .mbr-section-title {
-  color: #4479d9;
+  color: #ffffff;
+}
+.cid-sZJY12KCvS {
+  padding-top: 1rem;
+  padding-bottom: 6rem;
+  background-color: #8c44d9;
+}
+.cid-sZJY12KCvS img,
+.cid-sZJY12KCvS .item-img {
+  width: 100%;
+}
+.cid-sZJY12KCvS .item:focus,
+.cid-sZJY12KCvS span:focus {
+  outline: none;
+}
+.cid-sZJY12KCvS .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sZJY12KCvS .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #96ff7b;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sZJY12KCvS .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sZJY12KCvS .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sZJY12KCvS .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sZJY12KCvS .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-sZJY12KCvS .mbr-text,
+.cid-sZJY12KCvS .mbr-section-btn {
+  text-align: left;
+}
+.cid-sZJY12KCvS .item-title {
+  text-align: left;
+  color: #000000;
+}
+.cid-sZJY12KCvS .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
 }
 .cid-sZu57dRCn4 {
   padding-top: 6rem;
@@ -5454,7 +5528,7 @@ a {
   color: #bbbbbb;
 }
 .cid-sZu57dRCn4 .mbr-section-title {
-  color: #4479d9;
+  color: #8c44d9;
 }
 .cid-sZu4zKmXiX {
   background-color: #ffffff;
@@ -5564,8 +5638,6 @@ a {
   width: 100%;
 }
 .cid-sZGrZzkyI5 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
   background-image: url("../../../assets/images/collage-cars-copy.jpeg");
 }
 .cid-sZGrZzkyI5 .mbr-section-title {
